@@ -1,0 +1,5 @@
+com\ecomxpress\ecom_backend\service\ProductService.class
+com\ecomxpress\ecom_backend\EcomBackendApplication.class
+com\ecomxpress\ecom_backend\model\Product.class
+com\ecomxpress\ecom_backend\controller\ProductController.class
+com\ecomxpress\ecom_backend\repository\ProductRepo.class
