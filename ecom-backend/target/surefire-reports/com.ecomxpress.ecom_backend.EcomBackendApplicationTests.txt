@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.ecomxpress.ecom_backend.EcomBackendApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.548 s -- in com.ecomxpress.ecom_backend.EcomBackendApplicationTests
